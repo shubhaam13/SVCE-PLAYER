@@ -17,7 +17,8 @@ With this player, you will get: <br>
 🎵 One very unique disc roll and Beautifully Designed Notification thumbnails <br>
 🎵 Manual control of play <br>
 🎵 Sort tool: you sort your songs according to your wish <br>
-🎵 Search bar: you can Search any songs/albums within the playerrnrnAnd a common player functionality:rnrn🎵Playback of music files locally storing on the phone or the memory     card <br>
+🎵 Search bar: you can Search any songs/albums within the playerrnrnAnd a common player functionality <br>
+🎵 Playback of music files locally storing on the phone or the memory card <br>
 🎵 plays mp3, mp4/m4a (incl. alac), ogg, wma, flac, wav, ape, wv, tta, mpc, aiff; V3 also plays opus, dsd (dff/dsf), mka, tak, Flv (audio) <br>
 🎵 Playback control using headset buttons, buttons in the system notification area and at the start screen <br>
 🎵 Automatic Play/Pause when headphones are plugged or unplugged <br>
