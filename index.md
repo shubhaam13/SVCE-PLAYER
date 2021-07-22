@@ -32,4 +32,4 @@
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [Website](https://shubhaam13.github.io/) or [contact support](https://shubhaam13.github.io/) and we’ll help you sort it out.
+Having trouble with Application? Check out our [Website](https://shubhaam13.github.io/) or [contact support](https://shubhaam13.github.io/) and we’ll help you sort it out.
