@@ -1,8 +1,9 @@
 # Welcome to SVCE PLAYER
 
 ![screen_1](https://user-images.githubusercontent.com/55135227/126661562-9b0bf494-275c-4596-a0c5-e2348839acbc.png)
-![screen_3](https://user-images.githubusercontent.com/55135227/126661579-02fd5a9f-cfcd-4c97-ab99-8667b2bd1a03.png)
 ![screen_4](https://user-images.githubusercontent.com/55135227/126661587-332adb6c-7169-4a0d-ba58-6ed0172c6aaa.png)
+![screen_2](https://user-images.githubusercontent.com/55135227/126661985-126fdb07-772a-4f48-b36d-3bd2ca97712f.png)
+![screen_3](https://user-images.githubusercontent.com/55135227/126661579-02fd5a9f-cfcd-4c97-ab99-8667b2bd1a03.png)
 ![screen_5](https://user-images.githubusercontent.com/55135227/126661596-abe4b3ef-23cd-4b2c-8d17-78eed109e0c6.png)
 ![screen_6](https://user-images.githubusercontent.com/55135227/126661601-2731775e-3299-4bb7-90f4-b6f0cfafd3d4.png)
 ![screen_7](https://user-images.githubusercontent.com/55135227/126661608-62df3588-c0a7-4dea-a67f-b322cc6cc42b.png)
