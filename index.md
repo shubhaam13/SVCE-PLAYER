@@ -9,7 +9,17 @@
 ![screen_2](https://user-images.githubusercontent.com/55135227/126664869-13a5a873-ee63-4288-bc42-bad147a6ef5d.png)
 ![screen_3](https://user-images.githubusercontent.com/55135227/126664874-7fa1a094-04f4-4d5f-b422-4893b5da11c5.png)
 
-SVCE PLAYER is a Simple, But Elegant And Fairly Powerful Ad-Free Mobile Music App
+SVCE PLAYER is a Simple, But Elegant And Fairly Powerful Ad-Free Mobile Music App.
+With this player, you will get:
+🎵 Fairly Powerful Ad-Free Mobile Music App
+🎵 3 Themes: Light, Dark and Cool
+🎵 One very unique disc roll and Beautifully Designed Notification thumbnails
+🎵 Manual control of play
+🎵 Sort tool: you sort your songs according to your wish
+🎵 Search bar: you can Search any songs/albums within the playerrnrnAnd a common player functionality:rnrn🎵Playback of music files locally storing on the phone or the memory     card
+🎵 plays mp3, mp4/m4a (incl. alac), ogg, wma, flac, wav, ape, wv, tta, mpc, aiff; V3 also plays opus, dsd (dff/dsf), mka, tak, Flv (audio)
+🎵 Playback control using headset buttons, buttons in the system notification area and at the start screen
+🎵 Automatic Play/Pause when headphones are plugged or unplugged
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
