@@ -12,7 +12,6 @@
 ### SVCE PLAYER is a Simple, But Elegant And Fairly Powerful Ad-Free Mobile Music App.###### #### #### ## 
 
 #### With this player, you will get: 
-<br>
 #### 🎵 Fairly Powerful Ad-Free Mobile Music App. <br>
 #### 🎵 3 Themes: Light, Dark and Cool. <br>
 #### 🎵 One very unique disc roll and Beautifully Designed Notification thumbnails. <br>
