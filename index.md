@@ -1,13 +1,13 @@
 # Welcome to SVCE PLAYER
 
-![screen_1](https://user-images.githubusercontent.com/55135227/126661562-9b0bf494-275c-4596-a0c5-e2348839acbc.png)
-![screen_4](https://user-images.githubusercontent.com/55135227/126661587-332adb6c-7169-4a0d-ba58-6ed0172c6aaa.png)
-![screen_2](https://user-images.githubusercontent.com/55135227/126661985-126fdb07-772a-4f48-b36d-3bd2ca97712f.png)
-![screen_3](https://user-images.githubusercontent.com/55135227/126661579-02fd5a9f-cfcd-4c97-ab99-8667b2bd1a03.png)
-![screen_5](https://user-images.githubusercontent.com/55135227/126661596-abe4b3ef-23cd-4b2c-8d17-78eed109e0c6.png)
-![screen_6](https://user-images.githubusercontent.com/55135227/126661601-2731775e-3299-4bb7-90f4-b6f0cfafd3d4.png)
-![screen_7](https://user-images.githubusercontent.com/55135227/126661608-62df3588-c0a7-4dea-a67f-b322cc6cc42b.png)
-![screen_8](https://user-images.githubusercontent.com/55135227/126661612-1ba675d1-905d-443c-bd9f-910589cda5e3.png)
+![screen_1](https://user-images.githubusercontent.com/55135227/126662920-6ea8ffea-1995-4b8e-9dbc-14a35bbc6bfd.png)
+![screen_4](https://user-images.githubusercontent.com/55135227/126662947-ce51d473-152a-4762-a282-ae0af80f30f1.png)
+![screen_2](https://user-images.githubusercontent.com/55135227/126662960-9327d20c-bbf3-465a-a047-d94e0fd580d0.png)
+![screen_3](https://user-images.githubusercontent.com/55135227/126662979-730fcf65-7fd9-4380-8096-ca76b2d74942.png)
+![screen_5](https://user-images.githubusercontent.com/55135227/126662990-212f0d9a-e733-4448-881f-f92811b6cf5d.png)
+![screen_6](https://user-images.githubusercontent.com/55135227/126662999-6970e145-a8ab-48e4-8683-4d9b548abb3a.png)
+![screen_7](https://user-images.githubusercontent.com/55135227/126663005-eae761e0-9586-48c6-9811-e440bdaa8d85.png)
+![screen_8](https://user-images.githubusercontent.com/55135227/126663011-8b25b9f4-00b8-4c5d-b166-97dea5bb4df3.png)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
