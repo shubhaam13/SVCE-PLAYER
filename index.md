@@ -1,6 +1,8 @@
 ## Welcome to SVCE PLAYER
 
 To Download [CLICK HERE](https://shubhaam13.github.io/) to maintain and preview the content for your website in Markdown files.
+![splashscreen](https://user-images.githubusercontent.com/55135227/126658736-6adc5042-cd96-4fcc-92ac-bc26b03a99a6.png)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
