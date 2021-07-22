@@ -24,10 +24,10 @@
 #### 🎵 Playback control using headset buttons, buttons in the system notification area and at the start screen. <br>
 #### 🎵 Automatic Play/Pause when headphones are plugged or unplugged. <br>
 
-![download](https://user-images.githubusercontent.com/55135227/126668577-df418040-c7bd-4f46-8304-9df83a26a3e1.png)
+![download]()
 
 <a href="https://www.w3schools.com">
-<img src="logo_w3s.gif" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/55135227/126668577-df418040-c7bd-4f46-8304-9df83a26a3e1.png" width="100" height="100">
   
 ## MADE WITH ❤️ BY SHUBHAM KUMAR
 
