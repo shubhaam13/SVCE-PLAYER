@@ -21,7 +21,7 @@ https://shubhaam13.github.io/SVCE-PLAYER/
 
 
 <a href="https://github.com/shubhaam13/SVCE-PLAYER/releases/download/1.0/svceplayer.apk">
-<img src="https://user-images.githubusercontent.com/55135227/126668577-df418040-c7bd-4f46-8304-9df83a26a3e1.png" width ='600'>
+<img src="https://user-images.githubusercontent.com/55135227/126668577-df418040-c7bd-4f46-8304-9df83a26a3e1.png" width ='450'>
   
 ## MADE WITH ❤️ BY SHUBHAM KUMAR
 
