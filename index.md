@@ -26,10 +26,7 @@
 
 ![download](https://user-images.githubusercontent.com/55135227/126668577-df418040-c7bd-4f46-8304-9df83a26a3e1.png)
 
-
-
-[Link](url) and ![Image](src)
-
+### MADE WITH ❤️ BY SHUBHAM KUMAR
 
 ### Support or Contact
 
