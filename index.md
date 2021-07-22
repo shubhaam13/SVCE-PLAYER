@@ -9,9 +9,10 @@
 ![screen_2](https://user-images.githubusercontent.com/55135227/126664869-13a5a873-ee63-4288-bc42-bad147a6ef5d.png)
 ![screen_3](https://user-images.githubusercontent.com/55135227/126664874-7fa1a094-04f4-4d5f-b422-4893b5da11c5.png)
 
-### SVCE PLAYER is a Simple, But Elegant And Fairly Powerful Ad-Free Mobile Music App.
+## SVCE PLAYER is a Simple, But Elegant And Fairly Powerful Ad-Free Mobile Music App.
 
-#### With this player, you will get: 
+#### With this player, you will get:--
+
 #### 🎵 Fairly Powerful Ad-Free Mobile Music App. <br>
 #### 🎵 3 Themes: Light, Dark and Cool. <br>
 #### 🎵 One very unique disc roll and Beautifully Designed Notification thumbnails. <br>
@@ -32,4 +33,4 @@
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [Website](https://shubhaam13.github.io/) or [contact support](imsky004@gmail.com) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [Website](https://shubhaam13.github.io/) or [contact support](https://shubhaam13.github.io/) and we’ll help you sort it out.
