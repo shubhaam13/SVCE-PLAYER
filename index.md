@@ -1,6 +1,6 @@
 # Welcome to SVCE PLAYER
 
-![splashscreen](https://user-images.githubusercontent.com/55135227/126660977-a2dd3e7a-5408-4e8c-a59c-df43a85acc54.png)
+![splashscreen](https://user-images.githubusercontent.com/55135227/126660977-a2dd3e7a-5408-4e8c-a59c-df43a85acc54.png) ![icon (1)](https://user-images.githubusercontent.com/55135227/126661292-f06e7af5-d4e5-45c7-ba04-e3901cbe1d34.png)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
